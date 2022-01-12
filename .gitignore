@@ -18,3 +18,5 @@
 /phpmd.xml
 /phpunit.xml
 /workspace.override.yml
+
+.idea
