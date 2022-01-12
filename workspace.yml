@@ -1,0 +1,4 @@
+
+workspace('acquiacert'):
+  description: generated local workspace for acquiacert.
+  harness: inviqa/drupal8:v1.2.0
